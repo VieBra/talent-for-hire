@@ -32,4 +32,4 @@ Please add your info to the bottom of the table in an empty row in markdown form
 | Aman Agrawal | Data Science / Machine Learning Engineer | Chicago, Illinois (open to relocate) | Python, Machine Learning, Computer Vision, Natural Language Processing, Reinforcement Learning, Javascript and frameworks, Algorithms and Data Structures, IBM Watson | Remote friendly | amnagrawal1994@gmail.com |
 |Saiprasad Balasubramanian|Software Engineer	|Mumbai, India|Python, Flask, Django, SQL, JavaScript, Docker|On-site, Remote, Relocation|sai.cosmo@gmail.com <br> [LinkedIn](https://www.linkedin.com/in/saiprasadbala)|
 | Brad Harris  | Jr. Level App Developer | Davie, FL | Android Mobile/React-native/JavaScript/UI | Remote and On-site | brforeal@gmail.com
-|         |         |             |           |           |            |
+| Viviane Braman |  Jr. Software Engineer/Entry level  |  Washington, DC |   HTML/ CSS/Java/Java script/ React| Onsite + Remote |  viebraman@gmail.com <br> [linkedin](https://www.linkedin.com/in/viviane-braman   |
